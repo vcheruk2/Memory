@@ -1,5 +1,6 @@
 # Copy the code and paste in www.codeskulptor.com and then click on the 
 # "Run button" located on the website.
+# Please check the Readme file for more details.
 
 # Implementation of card game - Memory
 
