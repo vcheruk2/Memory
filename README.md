@@ -10,3 +10,7 @@ The main idea of the game is to find all the identical numbers.
 This process continues until the player finds out all the numbers hidden beneath the tiles. The scoring is done based on the number of "turns" a player took to find all the identical numbers and it will be displayed/updated continuously. The players should aim at finishing the game in least number of turns possible.
 
 The player can "reset" the game at any time and the score will revert to 0 and a new set of numbers will be hidden in the tiles.
+
+To play the game, copy the code from memory.py and paste it in www.codeskulptor.org and click play.
+
+Enjoy ! ! !
